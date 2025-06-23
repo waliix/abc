@@ -1,0 +1,5 @@
+/*!
+ * ABC Theme v0.0.1 (https://wsw.biz.id/)
+ * Copyright 2025 ABC Script
+ * MIT
+ */
